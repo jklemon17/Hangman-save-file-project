@@ -1,0 +1,11 @@
+--- !ruby/object:Game
+answer: !ruby/object:SecretWord
+  value: Hamlet
+correct: []
+incorrect:
+- p
+- o
+- y
+- r
+remaining: 2
+state: 'h a m _ _ t '
